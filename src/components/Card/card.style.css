@@ -1,0 +1,8 @@
+.card-style{
+  background-image: linear-gradient(#4DA0B0,#D39D38);
+  color:#fff;
+  transition: transform .3s;
+}
+.card-style:hover{
+  transform: scale(1.05);
+}
